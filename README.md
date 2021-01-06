@@ -1,6 +1,7 @@
 # Description
 
 ```bash
+Based on slim framework
 Converts product costs fetched from GoRest API by the currencies fetched from Forex Exchange API
 ```
 
